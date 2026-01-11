@@ -153,7 +153,7 @@ And press Enter!
 
 ### Running Again:
 
-Just type `python video_player.py` in the terminal again! The script will:
+Just type `main.py` in the terminal again! The script will:
 - Pick a random video (might be the same one or a different one)
 - Track new keypresses
 - Add to the existing results
